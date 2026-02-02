@@ -34,7 +34,7 @@ _(I should probably add actual screenshots here at some point...)_
 
 Download this project or clone it:
 ```bash
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/tanishadabas30-oss/weather-app.git
 cd weather-app
 ```
 
@@ -179,10 +179,6 @@ If you want to improve this or add features, go for it! Just:
 4. Send a pull request
 
 No formal process or anything. Just keep the code readable and maybe add a comment or two.
-
-## License
-
-MIT License - basically do whatever you want with this code. See the LICENSE file for the legal stuff.
 
 ## Credits
 
