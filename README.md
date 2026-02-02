@@ -194,7 +194,7 @@ MIT License - basically do whatever you want with this code. See the LICENSE fil
 
 If you run into issues or have questions:
 - Open an issue on GitHub
-- Or email me at your.email@example.com
+- Or email me at tanishadabas30@gmail.com
 
 I'll try to help if I can, but no promises I'll respond super quickly!
 
